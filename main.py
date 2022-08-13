@@ -7,7 +7,7 @@ FONT = ("Courier", 25, "bold")
 # ---------------------------- WINDOW SETUP ------------------------------- #
 
 window = Tk()
-window.title("Jhuv's Calculator")
+window.title("Jhuv's Simple Calculator")
 window.minsize(width=190, height=200)
 window.config(bg="light pink", padx=10, pady=10)
 
