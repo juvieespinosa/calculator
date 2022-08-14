@@ -9,7 +9,7 @@ FONT = ("Courier", 25, "bold")
 window = Tk()
 window.title("Jhuv's Simple Calculator")
 window.minsize(width=190, height=200)
-window.config(bg="#BDF2D5", padx=10, pady=10)
+window.config(bg="#FF8FB1", padx=10, pady=10)
 
 
 
